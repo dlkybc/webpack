@@ -13,7 +13,7 @@ function component() {
 	myIcon.src = Icon;
 
   element.appendChild(myIcon);
-  console.log(Data)
+  console.log(Data,'管理资源入门')
 	return element;
 }
 
